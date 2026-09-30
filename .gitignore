@@ -1,0 +1,7 @@
+.agents
+__pycache__
+venv
+database.db
+pyrightconfig.json
+.env
+README.md
